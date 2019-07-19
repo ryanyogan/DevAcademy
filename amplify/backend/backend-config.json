@@ -1,0 +1,8 @@
+{
+	"auth": {
+		"devacademy087cce54": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

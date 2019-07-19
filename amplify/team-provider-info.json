@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "devacademy-dev-20190719110201-authRole",
+            "UnauthRoleArn": "arn:aws:iam::300394745625:role/devacademy-dev-20190719110201-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::300394745625:role/devacademy-dev-20190719110201-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "devacademy-dev-20190719110201-deployment",
+            "UnauthRoleName": "devacademy-dev-20190719110201-unauthRole",
+            "StackName": "devacademy-dev-20190719110201",
+            "StackId": "arn:aws:cloudformation:us-east-1:300394745625:stack/devacademy-dev-20190719110201/4efef1e0-aa4f-11e9-b171-0a515b01a4a4"
+        },
+        "categories": {
+            "auth": {
+                "devacademy087cce54": {}
+            }
+        }
+    }
+}
